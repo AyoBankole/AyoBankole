@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobankole&label=Profile%20views&color=0e75b6&style=flat" alt="ayobankole" /> </p>
 
-- 🔭 I’m currently working on [House Price Project](https://www.datascienceportfol.io/MushinDataGuy/projects/2)
+- 🔭 I’m currently working on building models and AI agents
 
 - 🌱 I’m currently learning **Generative Adversarial Networks and Large Language Models**
 
