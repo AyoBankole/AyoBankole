@@ -20,9 +20,9 @@
 
 ### 🧠 Rare AI Jokes!
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&variant=solid" alt="data fun fact" width="600" />
-</div>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&variant=solid" alt="data fun fact" />
+</p>
 
 ---
 
