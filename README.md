@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm AyoBankole</h1>
 <h3 align="center">🚀 Passionate Data Scientist | Business Analyst | ML & AI Engineer</h3>
-### 👨‍💻 About Me
+
+###  👨‍💻 About Me
 
 I'm Ayobankole, a Data Scientist and AI Engineer passionate about turning data into actionable insights and building intelligent, accessible AI systems. With hands-on experience in Python, ML, and LLMs, I enjoy solving real-world problems through thoughtful automation and data storytelling.
 
